@@ -1,0 +1,12 @@
+{
+  "name": "backend-pt",
+  "version": "1.0.0",
+  "description": "Express backend service",
+  "main": "Router.js",
+  "scripts": {
+    "start": "node Router.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
