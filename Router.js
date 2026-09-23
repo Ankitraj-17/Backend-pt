@@ -13,7 +13,7 @@ app.use((req, res, next) => {
 // Home / Root route
 app.get('/', (req, res) => {
     res.send(`
-        <h2>Server is running live on Render! 🚀</h2>
+        <h2>Server is running live on Render! </h2>
         <p>Available routes:</p>
         <ul>
             <li><a href="/name">/name</a> (GET)</li>
